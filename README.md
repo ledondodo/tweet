@@ -4,7 +4,7 @@
 To use tweet you'll need your Twitter account keys and access tokens. Complete the file "mykeys.py" with your personnal account informations (don't share them with anyone).
 
 ## Launch the program
-Launch the program with python by typing "python tweet.py" in the program directory.
+Launch the program with python by typing "python tweet.py" in the program directory from the Terminal command line.
 
 I personnaly use a shortcut with the short keyword "tweet" that launches the code from the right directory.
 
