@@ -18,7 +18,7 @@ As you launch the program, you'll see the following interface in the Terminal co
 ## Use Terminal alias (mac)
 Open or create the shell configuration file by typing `open ~/.zprofile` in the user’s home directory.
 
-Add the line: `alias ytb='python /pathtofile/tweet.py'` with the right path to your file.
+Add the line: `alias tweet='python /pathtofile/tweet.py'` with the right path to your file.
 
 Now you can type `tweet` in the Terminal command line to launch the program.
 
